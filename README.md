@@ -1,0 +1,2 @@
+# newmodernJS
+Notes for course
